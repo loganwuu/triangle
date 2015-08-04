@@ -44,11 +44,11 @@ class Triangle
 
     function validTriangle()
     {
-      if ($this->side_one + $this->side_two > $this->side_three ||
-          $this->side_one + $this->side_three > $this->side_two ||
-          $this->side_two + $this->side_three > $this->side_one
+      if (($this->side_one + $this->side_two > $this->side_three) ||
+          ($this->side_one + $this->side_three > $this->side_two) ||
+          ($this->side_two + $this->side_three > $this->side_one)
           ) {
-            if ($this->side_one == $this->side_two == $this->side_three) {
+            if (($this->side_one) == ($this->side_two) == ($this->side_three)) {
                 echo "This is an equilateral triangle";
             } else if ($this->side_one == $this->side_two != $this->side_three ||
                        $this->side_one == $this->side_three != $this->side_two ||
