@@ -1,6 +1,6 @@
 #Triangle
 
-##Tells what kind of triangle is inputed, 8-3-15
+##Tells the user what kind of triangle is inputted. (8-3-2015)
 
 ###By Brian Borealis & Logan Wu
 
