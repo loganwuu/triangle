@@ -1,18 +1,18 @@
-Triangle
+#Triangle
 
-Tells what kind of triangle is inputed, 8-3-15
+##Tells what kind of triangle is inputed, 8-3-15
 
-By Brian Borealis & Logan Wu
+###By Brian Borealis & Logan Wu
 
-Description
+##Description
 Determine what type of triangle is created: equilateral, isosceles, or scalene.
 
-Setup
+##Setup
 
 Technologies Used : HTML, PHP, Bootstrap
 
-Legal
-Copyright (c) 2015 {Brian Borealis & Logan Wu}
+##Legal
+Copyright (c) 2015 **Brian Borealis & Logan Wu**
 
 This software is licensed under the MIT license.
 
@@ -21,4 +21,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-# triangle
